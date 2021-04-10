@@ -32,13 +32,13 @@ module.exports = (() => {
 			settings: [{
 				id: "onlyCur",
 				name: "Current channel only",
-				note: "When this is enabled, the bruh sound effect will only play when a bruh is found in the selected channel.",
+				note: "When this is enabled, the sound effect will only play when a bruh is found in the selected channel.",
 				type: "switch",
 				value: true
 			}, {
 				id: "delay",
-				name: "Delay between each bruh (ms)",
-				note: "The amount of milliseconds to wait between each bruh when multiple bruhs are found within the same message.",
+				name: "Delay between each soundeffect (ms)",
+				note: "The amount of milliseconds to wait between each when multiple bruhs are found within the same message.",
 				type: "slider",
 				value: 200,
 				min: 10,
