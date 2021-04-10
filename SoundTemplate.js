@@ -4,7 +4,7 @@
  * @authorLink https://www.youtube.com/channel/UC7s8zO5S_-I7_f4hw4JYAuw
  * @donate https://www.paypal.me/LijmPistool
  * @website https://www.youtube.com/channel/UC7s8zO5S_-I7_f4hw4JYAuw
- * @source https://github.com/Metalloriff/BetterDiscordPlugins/blob/master/Bruh.plugin.js
+ * @source https://github.com/LijmPistool/SoundTemplate/blob/main/SoundTemplate.js
  */
 
 module.exports = (() => {
@@ -20,8 +20,8 @@ module.exports = (() => {
 			}],
 			version: "1",
 			description: "speelt een geluidje af wanneer iemand broodje zegt",
-			github: "https://github.com/Metalloriff/BetterDiscordPlugins/blob/master/Bruh.plugin.js",
-			github_raw: "https://raw.githubusercontent.com/Metalloriff/BetterDiscordPlugins/master/Bruh.plugin.js"
+			github: "https://github.com/LijmPistool/SoundTemplate/blob/main/SoundTemplate.js",
+			github_raw: "https://raw.githubusercontent.com/LijmPistool/SoundTemplate/main/SoundTemplate.js"
 		},
 		defaultConfig: [{
 			id: "general",
